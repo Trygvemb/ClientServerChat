@@ -1,0 +1,14 @@
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/bin/Debug/net8.0/ChatClient
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/bin/Debug/net8.0/ChatClient.deps.json
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/bin/Debug/net8.0/ChatClient.runtimeconfig.json
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/bin/Debug/net8.0/ChatClient.dll
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/bin/Debug/net8.0/ChatClient.pdb
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.AssemblyInfoInputs.cache
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.AssemblyInfo.cs
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.csproj.CoreCompileInputs.cache
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.dll
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/refint/ChatClient.dll
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.pdb
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ChatClient.genruntimeconfig.cache
+/Users/trygvebechsgaard/Repoes/ChatClient/ChatClient/obj/Debug/net8.0/ref/ChatClient.dll
