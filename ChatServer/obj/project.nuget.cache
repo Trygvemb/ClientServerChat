@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MID6VyU9GryX5bCXF16ergpk5X1pKbnIdebvbKLHQBkGhKDUPtVMKxZzYe00PvygD3B/zwdsP+NamKppZZ1fpg==",
+  "dgSpecHash": "wikBk4KI79zTmyW/lK+S/zHa5Xw3ACKPlSIsC7tJzcOFaFKFiti6I9pvB4g8687pCAf0fVge4zgNa2iCEvbTWg==",
   "success": true,
-  "projectFilePath": "/Users/trygvebechsgaard/Repoes/ChatClient/ChatServer/ChatServer.csproj",
+  "projectFilePath": "/Users/trygvebechsgaard/Repoes/ClientServerChat/ChatServer/ChatServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

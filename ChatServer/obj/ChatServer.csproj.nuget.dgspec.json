@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/trygvebechsgaard/Repoes/ChatClient/ChatServer/ChatServer.csproj": {}
+    "/Users/trygvebechsgaard/Repoes/ClientServerChat/ChatServer/ChatServer.csproj": {}
   },
   "projects": {
-    "/Users/trygvebechsgaard/Repoes/ChatClient/ChatServer/ChatServer.csproj": {
+    "/Users/trygvebechsgaard/Repoes/ClientServerChat/ChatServer/ChatServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/trygvebechsgaard/Repoes/ChatClient/ChatServer/ChatServer.csproj",
+        "projectUniqueName": "/Users/trygvebechsgaard/Repoes/ClientServerChat/ChatServer/ChatServer.csproj",
         "projectName": "ChatServer",
-        "projectPath": "/Users/trygvebechsgaard/Repoes/ChatClient/ChatServer/ChatServer.csproj",
+        "projectPath": "/Users/trygvebechsgaard/Repoes/ClientServerChat/ChatServer/ChatServer.csproj",
         "packagesPath": "/Users/trygvebechsgaard/.nuget/packages/",
-        "outputPath": "/Users/trygvebechsgaard/Repoes/ChatClient/ChatServer/obj/",
+        "outputPath": "/Users/trygvebechsgaard/Repoes/ClientServerChat/ChatServer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/trygvebechsgaard/.nuget/NuGet/NuGet.Config"
